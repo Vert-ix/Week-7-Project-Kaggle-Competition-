@@ -68,8 +68,7 @@
 
 Los resultados de la competición se pueden ver en el siguiente enlace a Kaggle.
 
-https://www.kaggle.com/competitions/bt-ironhack-agosto-2022-ml-competition/leaderboard
+https://www.kaggle.com/competitions/bt-ironhack-agosto-2022-ml-competition/data
 
-
-![image](https://github.com/Vert-ix/Week-7-Project-Kaggle-Competition-/blob/main/images/kaggle_competition.jpg)
+![image](https://github.com/Vert-ix/Week-7-Project-Kaggle-Competition-/blob/main/images/kaggle.jpg)
   
