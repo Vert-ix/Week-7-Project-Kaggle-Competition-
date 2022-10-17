@@ -6,12 +6,14 @@
 
 ![image](https://github.com/Ironhack-Data-Madrid-Mayo-2022/Kaggle-Competition/blob/main/images/Bag_of_Money.jpg)
 
+
 ### RECURSOS
 ----------------------------------------------------------------------------------------------------------------------------
 
   + Data salaries csv
   + Test cvs
   + Sample.csv (example of results that must upload to kaggle)
+
 
 
 ### OBJETIVOS
@@ -58,6 +60,7 @@
    + Predicción y Evaluación
    
      - Según las predicciones obtenidas en nuestro testeo observamos que el modelo que mejor funciona, para nuestro trabajo, es Ridge.
+
 
 
 ### RESULTADOS
