@@ -58,4 +58,15 @@
    + Predicción y Evaluación
    
      - Según las predicciones obtenidas en nuestro testeo observamos que el modelo que mejor funciona, para nuestro trabajo, es Ridge.
+
+
+### RESULTADOS
+----------------------------------------------------------------------------------------------------------------------------
+
+	Los resultados de la competición se pueden ver en el siguiente enlace a Kaggle.
+
+	https://www.kaggle.com/competitions/bt-ironhack-agosto-2022-ml-competition/leaderboard
+
+
+![image](https://github.com/Vert-ix/Vert-ix/Week-7-Project-Kaggle-Competition-/images/kaggle_competition.png)
   
